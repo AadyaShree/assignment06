@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyelHTudN81hkVmWo9XzA7QLP8I3omhtscX3NwKnV0HVh49fo9eZoNXXCMJYWEu5PADIE&usqp=CAU);
+    background-repeat: round;
+    background-size: contain;
+    
+
+}
+
+#button_style{
+    position: absolute;
+    top:250px;
+    left:600px;
+    padding:10px 15px;
+    border-radius: 20px;
+    border:none;
+    font-weight: 700;
+
+
+}
+#button_style:hover{
+    background-color:skyblue;}
+    #button_style:active{
+        transform: scale(0.9);
+    }
+    #text{
+font-size: 23px;
+font-style: italic;
+font-weight: 400;
+color:white;
+
+    }
+    #text1{
+        font-size: 32px;
+letter-spacing: 4px;
+        font-weight: 300;
+        color:aqua;
+        
+            }
+            .margin{
+                margin-top: 15px;
+            }
+           .font{
+                display: flex;
+                font-family: 'Instrument Serif', serif;
+             
+               justify-content: flex-start;
+               color:aqua;
+              
+
+            }
